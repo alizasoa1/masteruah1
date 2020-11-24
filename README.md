@@ -4,7 +4,7 @@ maste
 commit inicial aitorr
 
 
-Tabla compañeros y datos github
+Compañeros y datos github
 Roberto Gonzalez    regonzal66
 Maximiliano Zapata  maxzapata
 Eneko Lakasta       enekid
